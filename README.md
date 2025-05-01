@@ -111,7 +111,9 @@ The goal was to explore these datasets with SQL and answer practical business qu
 
 ## 🔗 Connect with Me
 
-**👤 Name:** Dolly Gupta 
-**🌐 LinkedIn:** [(https://www.linkedin.com/in/dolly-gupta-3b54b8229)] 
-**📬 [(dollygupta362@gmail.com)]
+
+👤 **Name:** Dolly Gupta  
+🌐 **LinkedIn:** [https://www.linkedin.com/in/dolly-gupta-3b54b8229](https://www.linkedin.com/in/dolly-gupta-3b54b8229)  
+📬 **Email:** dollygupta362@gmail.com
+
 ---
